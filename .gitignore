@@ -1,0 +1,10 @@
+# Directories
+/archive/
+
+# Files
+/hermes
+/TODO
+.DS_Store
+
+# Patterns
+.*.sw[op]
